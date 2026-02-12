@@ -1,0 +1,11 @@
+---
+vendor_id: FACTORIADIGITAL
+name: FactoriaDigital WAF Rules
+description: Reglas para ModSecurity de FactoriaDigital
+
+supported_versions:
+  "2.9.12":
+    distribution: "FD-1.0"
+    archive_url: "file:///root/fdvendor/factoriadigital.zip"
+    dist_md5: "MD5_HERE"
+    dist_sha512: "SHA512_HERE"

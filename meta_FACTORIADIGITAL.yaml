@@ -1,0 +1,11 @@
+---
+2.9.12:
+  MD5: d0108226b164fcf491127c43c3752fa3
+  SHA512: 3b1027d22f08ef7c32787bc83cee7285bc1b6c243e3c20ed3eea54d7303aa15f239ae8689c35b92d82440a854fcf0565b1b6113b69403feec3f507f4d11c537f
+  distribution: FACTORIADIGITAL-1
+  url: https://raw.githubusercontent.com/factoriadigital/modsecurity-custom-rules/refs/heads/main/FACTORIADIGITAL001.zip
+attributes:
+  description: 'Reglas para ModSecurity de FactoriaDigital.'
+  name: 'FactoriaDigital WAF Rules'
+  vendor_url: https://www.factoriadigital.com.com/
+  report_url: https://www.factoriadigital.com/contactanos

@@ -7,5 +7,5 @@
 attributes:
   description: 'Reglas para ModSecurity de FactoriaDigital.'
   name: 'FactoriaDigital WAF Rules'
-  vendor_url: https://www.factoriadigital.com.com/
+  vendor_url: https://www.factoriadigital.com/
   report_url: https://www.factoriadigital.com/contactanos

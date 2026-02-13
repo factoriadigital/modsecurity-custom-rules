@@ -1,8 +1,8 @@
 ---
 2.9.12:
-  MD5: 164e6d4b2ce8ee306c0e75c9c84c89e3
-  SHA512: 5da0be46064b709acab092892801e2b819e5bf23d82ed60fb5e33ef3767e7dfdd39591d1237d3ea8570b5211feb9edc9d552162ef51051914fde064da0329c83
-  distribution: FACTORIADIGITAL-3
+  MD5: 3723d96b8ce416b717684d261db8771a
+  SHA512: 4c59fe574b14a759ea8dac26ea24a16f616c5725ca1af38a8e85ccdf08dbca6caaef0da11d2145cc72857e8a86039f49486323e7dedcf5bd8caf6502cee3ac92
+  distribution: FACTORIADIGITAL-4
   url: https://raw.githubusercontent.com/factoriadigital/modsecurity-custom-rules/refs/heads/main/FACTORIADIGITAL.zip
 attributes:
   description: 'Reglas para ModSecurity de FactoriaDigital.'

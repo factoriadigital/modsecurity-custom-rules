@@ -23,3 +23,7 @@ Códigos 123xxxx
 ## Moodle
 
 Códigos 124xxxx
+
+## Proveedores
+
+Códigos genéricos que nos proporcionarán los propios proveedores de I360, etc. No será necesario modificarlos.

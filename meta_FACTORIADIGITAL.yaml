@@ -1,27 +1,27 @@
 ---
 2.9.12:
-  MD5: f5684cf89c01fe98ddf8c3e86307cfaa
-  SHA512: 7dc9a26f3f6633e39e7aad6b96bba1383979fc40bb4ca7f4289fbe9ea786c559909086b762f754485da3e9539297cda8a69cf98296b9b65cd4ac7063cb9692e9
+  MD5: 355f4e8cfe90ce32f0a5a7ee48c3263b
+  SHA512: 094333b47bcef4a8de2d1fc87c9be729fb9172136bb2cfb5d55990751f59d31d2b7c5394000b8409f105751bf1777c33fb71261d1d847207e44d21813b6a5eb6
   distribution: FACTORIADIGITAL-8
   url: https://raw.githubusercontent.com/factoriadigital/modsecurity-custom-rules/refs/heads/main/FACTORIADIGITAL.zip
 2.9.13:
-  MD5: f5684cf89c01fe98ddf8c3e86307cfaa
-  SHA512: 7dc9a26f3f6633e39e7aad6b96bba1383979fc40bb4ca7f4289fbe9ea786c559909086b762f754485da3e9539297cda8a69cf98296b9b65cd4ac7063cb9692e9
+  MD5: 355f4e8cfe90ce32f0a5a7ee48c3263b
+  SHA512: 094333b47bcef4a8de2d1fc87c9be729fb9172136bb2cfb5d55990751f59d31d2b7c5394000b8409f105751bf1777c33fb71261d1d847207e44d21813b6a5eb6
   distribution: FACTORIADIGITAL-8
   url: https://raw.githubusercontent.com/factoriadigital/modsecurity-custom-rules/refs/heads/main/FACTORIADIGITAL.zip
 2.9.14:
-  MD5: f5684cf89c01fe98ddf8c3e86307cfaa
-  SHA512: 7dc9a26f3f6633e39e7aad6b96bba1383979fc40bb4ca7f4289fbe9ea786c559909086b762f754485da3e9539297cda8a69cf98296b9b65cd4ac7063cb9692e9
+  MD5: 355f4e8cfe90ce32f0a5a7ee48c3263b
+  SHA512: 094333b47bcef4a8de2d1fc87c9be729fb9172136bb2cfb5d55990751f59d31d2b7c5394000b8409f105751bf1777c33fb71261d1d847207e44d21813b6a5eb6
   distribution: FACTORIADIGITAL-8
   url: https://raw.githubusercontent.com/factoriadigital/modsecurity-custom-rules/refs/heads/main/FACTORIADIGITAL.zip
 2.9.15:
-  MD5: f5684cf89c01fe98ddf8c3e86307cfaa
-  SHA512: 7dc9a26f3f6633e39e7aad6b96bba1383979fc40bb4ca7f4289fbe9ea786c559909086b762f754485da3e9539297cda8a69cf98296b9b65cd4ac7063cb9692e9
+  MD5: 355f4e8cfe90ce32f0a5a7ee48c3263b
+  SHA512: 094333b47bcef4a8de2d1fc87c9be729fb9172136bb2cfb5d55990751f59d31d2b7c5394000b8409f105751bf1777c33fb71261d1d847207e44d21813b6a5eb6
   distribution: FACTORIADIGITAL-8
   url: https://raw.githubusercontent.com/factoriadigital/modsecurity-custom-rules/refs/heads/main/FACTORIADIGITAL.zip
 2.9.16:
-  MD5: f5684cf89c01fe98ddf8c3e86307cfaa
-  SHA512: 7dc9a26f3f6633e39e7aad6b96bba1383979fc40bb4ca7f4289fbe9ea786c559909086b762f754485da3e9539297cda8a69cf98296b9b65cd4ac7063cb9692e9
+  MD5: 355f4e8cfe90ce32f0a5a7ee48c3263b
+  SHA512: 094333b47bcef4a8de2d1fc87c9be729fb9172136bb2cfb5d55990751f59d31d2b7c5394000b8409f105751bf1777c33fb71261d1d847207e44d21813b6a5eb6
   distribution: FACTORIADIGITAL-8
   url: https://raw.githubusercontent.com/factoriadigital/modsecurity-custom-rules/refs/heads/main/FACTORIADIGITAL.zip
 attributes:

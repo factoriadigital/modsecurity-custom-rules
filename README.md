@@ -1,5 +1,9 @@
 # Nomenclatura de reglas
 
+## Generar nueva versión
+
+https://www.factoriadigital.com/soporte/en/admin/selfservice/internal/1/interna/article/generar-nueva-version-del-proveedor-factoriadigital-de-modsecurity
+
 ## IMPORTANTE
 
 Mantener siempre un ID único y secuencial

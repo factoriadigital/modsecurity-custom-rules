@@ -16,7 +16,7 @@
 # reactivarse solo. NUNCA programar este script en un VPS.
 #
 # Uso fleet-wide manual: for h in ...; do ssh root@$h 'bash -s' < scripts/sweep_vendor.sh; done
-# Contexto: AGENTS.md, gotcha eservidor43 2026-07-20.
+# Contexto: AGENTS.md interno (gotcha de configs inactivos tras update, 2026-07).
 # cpanel/bin al FINAL: su 'hostname' (set_hostname) pisaría al del sistema
 export PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/local/cpanel/bin
 CRON=0; [ "$1" = "--cron" ] && CRON=1
